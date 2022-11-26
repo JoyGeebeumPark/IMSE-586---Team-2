@@ -30,7 +30,7 @@ Smoker: whether the customer smokes or not [Yes, No]
 Region: the beneficiary's residential area in the US [northeast, southeast, southwest, northwest]
 Charges: individual medical costs billed by health insurance 
 
-link for the medical insurance payment dataset: https://www.kaggle.com/datasets/harshsingh2209/medical-insurance-payout
+Link for the medical insurance payment dataset: https://www.kaggle.com/datasets/harshsingh2209/medical-insurance-payout
 
 
 
